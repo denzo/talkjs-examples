@@ -12,7 +12,7 @@ And lastly, install the required npm packages:
 
     npm install
 
-## Initial seup
+## Initial setup
 The example requires you to set your  application ID in the a `.env` file. Visit the [TalkJS dashboard](https://talkjs.com/dashboard/) and copy your development `appId` to the `example.env` file and then rename the file to '`.env`'.
 
 *Optional:* a secret key can be set to allow TalkJS's [identity verification](https://talkjs.com/docs/Features/Identity_Verification.html) feature to work if it is enabled your TalkJS [settings](https://talkjs.com/dashboard/).
